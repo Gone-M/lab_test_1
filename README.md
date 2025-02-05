@@ -19,7 +19,7 @@ This project is a real-time chat application with user authentication, room-base
 ## Setup Instructions
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/studentID_lab_test1_chat_app.git
+   git clone https://github.com/Gone-M/lab_test_1.git
    cd 101441732_lab_test1_chat_app
    ```
 2. Install dependencies:
